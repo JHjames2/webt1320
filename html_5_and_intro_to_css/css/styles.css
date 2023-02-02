@@ -1,0 +1,58 @@
+html {
+    background-color: #035AA6;
+}
+
+header {
+    text-align: center;
+    font-size: 1.5em;
+    }
+
+nav {
+    border-style: double;
+    text-align: center;
+    background-color: #035AA6;
+    margin: 20px
+    padding: 20px
+    
+}
+
+nav a {
+    color: #049DD9;
+}
+
+nav a:hover {
+    color: white;
+}
+
+p {
+    text-align: center;
+}
+
+body {
+    background-color: white;
+    width: 60%;
+    margin: 20px auto;
+    padding: 10px;
+}
+
+a {
+    color: #049DD9;
+}
+
+img {
+    display: block;
+    width: 60%;
+    margin: 20px auto;
+}
+
+h1,h2,h3 {
+text-align: center;
+}
+
+ul {
+    text-align: left;
+}
+
+footer {
+    text-align: center;
+}
