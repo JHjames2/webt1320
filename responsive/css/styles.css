@@ -197,7 +197,7 @@ footer  {
         font-weight: bold;
     }
 
-    #meme {
+    .meme {
         border: 4px solid #788C5A;
         padding: 20PX;
     }
